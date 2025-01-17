@@ -25,5 +25,5 @@ The `Aitu_SE2315_YussupovZhangir` is an ERC-20 standard token deployed on Ethere
 
 ### Prerequisites:
 - **MetaMask** wallet installed and configured.
-- **Hardhat** or **Truffle** setup for deployment.
+- **Hardhat** setup for deployment.
 - Ethereum testnet (e.g., Remix, Sepolia, Mumbai).
