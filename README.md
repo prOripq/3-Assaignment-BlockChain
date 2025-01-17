@@ -1,5 +1,5 @@
 # 3-Assaignment-BlockChain
-# UniversityToken (ERC-20 Token)
+# Aitu_SE2315_YussupovZhangir (ERC-20 Token)
 
 ## Overview
 
