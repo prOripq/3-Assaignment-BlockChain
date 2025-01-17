@@ -43,6 +43,12 @@ The `Aitu_SE2315_YussupovZhangir` is an ERC-20 standard token deployed on Ethere
 
 ---
 
+## Examples
+
+1. **Get Transaction Sender:**
+   ```solidity
+   contractInstance.getTransactionSender();
+
 ## Project Structure
 
 - **`Aitu_SE2315_YussupovZhangir`**: Smart contract source code.
