@@ -15,7 +15,7 @@ The `Aitu_SE2315_YussupovZhangir` is an ERC-20 standard token deployed on Ethere
 
 ## Project Structure
 
-- **`UniversityToken.sol`**: Smart contract source code.
+- **`Aitu_SE2315_YussupovZhangir`**: Smart contract source code.
 - **`README.md`**: This documentation file.
 - **`LICENSE`**: Open-source license file (MIT).
 
